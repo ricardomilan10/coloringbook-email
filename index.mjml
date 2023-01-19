@@ -19,8 +19,15 @@
         <!-- Top start -->
         <mj-section background-color="#fff">
             <mj-column>
-                <mj-text align="center">
-                    <h1>We Made A Coloring Book!</h1>
+                <mj-text align="center" color="#6e4e37">
+                    <h1>Our Alphabet Book!</h1>
+                </mj-text>
+                <mj-image src="http://127.0.0.1:5500/assets/book.png" width="400px" alt="vanser logo"></mj-image>
+                <mj-text align="center" color="#6e4e37">
+                    <h1>Figure Out Our ABCs: A Designer Toy's Alphabet Book!</h1>
+                    <p style="line-height:1.5;">An ABC storybook geared toward adult artists and collectors! Ramble teaches you the essential vocabulary from the world of designer toys and collector culture from A to Z! </p>
+                    <p style="line-height:1.5;">Accompanied with colorful stylish visuals, Figure Out Our ABCs is a delightful book that educates the readers on the 26 letters and associated words surrounding designer toys and the people who collect them. </p>
+                    <p style="line-height:1.5;">Ramble is based on the Vegas Born Designer Toy by Vanser Toys. Based in Las Vegas, Vanser Toys is on a mission to provide high-quality collectible figures while promoting creativity and positivity within the designer toy culture. </p>
                 </mj-text>
             </mj-column>
         </mj-section>
