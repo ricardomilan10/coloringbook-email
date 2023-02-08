@@ -27,9 +27,49 @@
                     <h1>Figure Out Our ABCs: A Designer Toy's Alphabet Book!</h1>
                     <p style="line-height:1.5;">An ABC storybook geared toward adult artists and collectors! Ramble teaches you the essential vocabulary from the world of designer toys and collector culture from A to Z! </p>
                     <p style="line-height:1.5;">Accompanied with colorful stylish visuals, Figure Out Our ABCs is a delightful book that educates the readers on the 26 letters and associated words surrounding designer toys and the people who collect them. </p>
-                    <p style="line-height:1.5;">Ramble is based on the Vegas Born Designer Toy by Vanser Toys. Based in Las Vegas, Vanser Toys is on a mission to provide high-quality collectible figures while promoting creativity and positivity within the designer toy culture. </p>
                 </mj-text>
+                <mj-button background-color="#6e4e37" href="https://google.com/" font-weight="bold"><span style="color:#ffffff;">Shop Now</span></mj-button>
             </mj-column>
         </mj-section>
+        <!-- Top End -->
+        <!--coupon section - start-->
+    <mj-section background-color="#f2f2f2" padding="10px 0px 25px 0px">
+      <mj-column>
+        <mj-text align="center">
+          <h1 style="color:#6e4e37;">Thank you for your attention!</h1>
+          <p style="line-height:20px;">Use this promo code when placing your order to get free shipping on orders over $100.</p>
+          <h2 style="line-height:20px;padding-top: 10px;padding-bottom: 10px;background-color:#fff;border-radius: 20px;color:#6e4e37;">VEGASBORN</h2>
+        </mj-text>
+        <mj-button background-color="#6e4e37" color="white" font-weight="bold" href="https://google.com/"><span style="color:#ffffff;">USE NOW</span></mj-button>
+      </mj-column>
+    </mj-section>
+    <!--coupon section - end-->
+    <!--footer-start-->
+    <mj-section background-color="#fff" padding="25px 0px 20px 0px">
+      <mj-column>
+        <mj-image src="https://i.imgur.com/Gfxbgv2.png" alt="" width="100px" />
+      </mj-column>
+      <mj-group>
+        <mj-column>
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+            <mj-social-element name="" href="https://instagram.com" src="https://i.imgur.com/EJZWL66.png" padding="10px"></mj-social-element>
+            <mj-social-element name="" href="https://facebook.com" src="https://i.imgur.com/M3fZN8L.png" padding="10px"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#fff" padding="0px">
+      <mj-column padding="0px">
+        <mj-divider border-width="3px" border-style="solid" border-color="#f2f2f2" padding="0px 20px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="white" padding="25px 0px 25px 0px">
+      <mj-column padding="0px">
+        <mj-text color="rgb(117, 117, 117)" font-size="10px"> <a href="#" style="text-decoration:underline;color:#757575;">Views this email online</a></mj-text>
+        <mj-text color="rgb(117, 117, 117)" font-size="10px"> <a href="#" style="text-decoration:underline;color:#757575;">Unsubscribe</a> or adjust your <a href="#" style="text-decoration:underline;color:#757575;">email preferences.</a></mj-text>
+        <mj-text color="rgb(117, 117, 117)" font-size="10px">Copyright © 2023 Vanser Toys LLC All rights reserved. Las Vegas, Nevada. </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--footer-end-->
     </mj-body>
 </mjml>
